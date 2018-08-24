@@ -1,0 +1,7 @@
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MrGrapht\Documents\BingoGame\ConsoleApp1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
