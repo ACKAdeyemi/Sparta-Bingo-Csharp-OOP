@@ -4,7 +4,7 @@
 
 #### Task:
 
-To spend a week creating a Bingo game console application with C# using Object Oriented Programming  
+To spend a week creating a Bingo game console application with C# using Object Oriented Programming principles to demonstrate our ability to pick up new technologies and apply them successfully. 
 
 This task makes use of:
 
@@ -12,11 +12,11 @@ This task makes use of:
 - Git Bash
 - C#
 
-**How to Download** - click 'clone or download' button, download a zip of our project, unzip, open the index.html/run `some command` in the terminal (make sure to be in `main project folder` directory) and enjoy.
+**How to Download and Use** - click 'clone or download' button, download a zip of our project, unzip, run `./ConsoleApp1.exe 75 5 5 15` in the terminal (make sure to be in `ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug` directory) and enjoy.
 
 #### Challenges:
 
-We found it...
+We found it... 
 
 ### <p align="center"> Example of Challenge or Solution </p>
 
