@@ -14,24 +14,16 @@ This task makes use of:
 
 **How to Download and Use** - click 'clone or download' button, download a zip of our project, unzip, run `./ConsoleApp1.exe 75 5 5 15` in the terminal (make sure to be in `ConsoleApp1\ConsoleApp1\ConsoleApp1\bin\Debug` directory) and enjoy.
 
-#### Challenges:
-
-We found it... 
-
-### <p align="center"> Example of Challenge or Solution </p>
-
-```c#
-// Code Snippet
-```
-
-![Image 1](E:/Sparta%20Global%20Desktop/public/images/example.png)
-
-![Image 2](E:/Sparta%20Global%20Desktop/public/images/example.png)
-
-The...
-
 <hr>
 
 #### Summary:
 
-I...
+We all found this exercise extremely useful as it gave us an opportunity to learn a new language and applications, become more prepared for the client that we'll be going to, and exercise the knowledge that we had already learnt at Sparta Global. The following list captures most of this:
+
+* Problem solving within programming
+* Planning effectively
+* Working in a team (locally and remotely) 
+* Strongly typed languages like C# and the .NET framework
+* Object oriented programming 
+* Handling exceptions
+* Using/debugging code in Visual Studio, and more.
